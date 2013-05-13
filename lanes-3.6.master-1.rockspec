@@ -7,7 +7,7 @@
 
 package = "Lanes"
 
-version = "3.6.0-1"
+version = "3.6.master-1"
 
 source= {
 	url= "git://github.com/LuaLanes/lanes.git",
